@@ -27,7 +27,7 @@ function Footer() {
           className="object-contain"
         />
         <Image
-          src="./twitter.svg"
+          src="./twitter1.svg"
           alt="logo"
           width={19}
           height={19}
